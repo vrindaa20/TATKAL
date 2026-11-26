@@ -1,0 +1,4 @@
+passenger_id,username,full_name,age,gender,id_proof_type,id_proof_number,verified,priority_category,berth_preference,wallet_balance
+2,ananya_r,Ananya Rao,29,F,AADHAAR,AAD-880011,true,NORMAL,LB,14000.00
+3,col_vikram,Col Vikram Nair,52,M,PAN,PAN-DEF992,true,DEFENCE,SL,22000.00
+4,dr_kavita,Dr Kavita Iyer,45,F,PASSPORT,PAS-MED101,true,MEDICAL,LB,18500.00

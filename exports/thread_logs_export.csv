@@ -1,0 +1,261 @@
+session_id,booking_id,thread_id,thread_name,priority,state,lock_target,action_detail,logged_at
+12,TX1001-S12,28,TX-Worker-001,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1002-S12,29,TX-Worker-002,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1003-S12,30,TX-Worker-003,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1004-S12,31,TX-Worker-004,8,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1005-S12,32,TX-Worker-005,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1006-S12,33,TX-Worker-006,10,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1007-S12,34,TX-Worker-007,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1008-S12,35,TX-Worker-008,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1009-S12,36,TX-Worker-009,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1010-S12,37,TX-Worker-010,8,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1011-S12,38,TX-Worker-011,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1012-S12,39,TX-Worker-012,10,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1013-S12,40,TX-Worker-013,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1014-S12,41,TX-Worker-014,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1015-S12,42,TX-Worker-015,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1016-S12,43,TX-Worker-016,8,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1017-S12,44,TX-Worker-017,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1018-S12,45,TX-Worker-018,10,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1019-S12,46,TX-Worker-019,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1020-S12,47,TX-Worker-020,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1021-S12,48,TX-Worker-021,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1022-S12,49,TX-Worker-022,8,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1023-S12,50,TX-Worker-023,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1024-S12,51,TX-Worker-024,10,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1025-S12,52,TX-Worker-025,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1026-S12,53,TX-Worker-026,5,NEW,TatkalVirtualClock,Pre-Start (NEW),2026-11-26 15:15:27.361
+12,TX1001-S12,28,TX-Worker-001,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1002-S12,29,TX-Worker-002,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1003-S12,30,TX-Worker-003,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1004-S12,31,TX-Worker-004,8,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1005-S12,32,TX-Worker-005,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1006-S12,33,TX-Worker-006,10,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1007-S12,34,TX-Worker-007,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1008-S12,35,TX-Worker-008,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1009-S12,36,TX-Worker-009,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1010-S12,37,TX-Worker-010,8,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1011-S12,38,TX-Worker-011,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1012-S12,39,TX-Worker-012,10,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1013-S12,40,TX-Worker-013,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1014-S12,41,TX-Worker-014,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1015-S12,42,TX-Worker-015,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1016-S12,43,TX-Worker-016,8,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1017-S12,44,TX-Worker-017,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1018-S12,45,TX-Worker-018,10,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1019-S12,46,TX-Worker-019,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1020-S12,47,TX-Worker-020,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1021-S12,48,TX-Worker-021,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1022-S12,49,TX-Worker-022,8,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1023-S12,50,TX-Worker-023,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1024-S12,51,TX-Worker-024,10,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1025-S12,52,TX-Worker-025,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1026-S12,53,TX-Worker-026,5,NEW,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.363
+12,TX1001-S12,28,TX-Worker-001,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1002-S12,29,TX-Worker-002,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1003-S12,30,TX-Worker-003,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1004-S12,31,TX-Worker-004,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1005-S12,32,TX-Worker-005,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1006-S12,33,TX-Worker-006,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1007-S12,34,TX-Worker-007,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1008-S12,35,TX-Worker-008,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1009-S12,36,TX-Worker-009,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1010-S12,37,TX-Worker-010,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1011-S12,38,TX-Worker-011,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1012-S12,39,TX-Worker-012,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1013-S12,40,TX-Worker-013,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1014-S12,41,TX-Worker-014,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1015-S12,42,TX-Worker-015,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1016-S12,43,TX-Worker-016,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1017-S12,44,TX-Worker-017,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1018-S12,45,TX-Worker-018,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1019-S12,46,TX-Worker-019,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1020-S12,47,TX-Worker-020,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1021-S12,48,TX-Worker-021,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1022-S12,49,TX-Worker-022,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1023-S12,50,TX-Worker-023,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1024-S12,51,TX-Worker-024,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1025-S12,52,TX-Worker-025,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1026-S12,53,TX-Worker-026,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.368
+12,TX1001-S12,28,TX-Worker-001,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1002-S12,29,TX-Worker-002,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1003-S12,30,TX-Worker-003,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1004-S12,31,TX-Worker-004,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1005-S12,32,TX-Worker-005,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1006-S12,33,TX-Worker-006,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1007-S12,34,TX-Worker-007,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1008-S12,35,TX-Worker-008,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1009-S12,36,TX-Worker-009,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1010-S12,37,TX-Worker-010,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1011-S12,38,TX-Worker-011,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1012-S12,39,TX-Worker-012,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1013-S12,40,TX-Worker-013,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1014-S12,41,TX-Worker-014,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1015-S12,42,TX-Worker-015,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1016-S12,43,TX-Worker-016,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1017-S12,44,TX-Worker-017,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1018-S12,45,TX-Worker-018,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1019-S12,46,TX-Worker-019,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1020-S12,47,TX-Worker-020,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1021-S12,48,TX-Worker-021,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1022-S12,49,TX-Worker-022,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1023-S12,50,TX-Worker-023,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1024-S12,51,TX-Worker-024,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1025-S12,52,TX-Worker-025,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1026-S12,53,TX-Worker-026,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.372
+12,TX1001-S12,28,TX-Worker-001,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1002-S12,29,TX-Worker-002,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1003-S12,30,TX-Worker-003,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1004-S12,31,TX-Worker-004,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1005-S12,32,TX-Worker-005,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1006-S12,33,TX-Worker-006,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1007-S12,34,TX-Worker-007,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1008-S12,35,TX-Worker-008,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1009-S12,36,TX-Worker-009,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1010-S12,37,TX-Worker-010,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1011-S12,38,TX-Worker-011,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1012-S12,39,TX-Worker-012,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1013-S12,40,TX-Worker-013,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1014-S12,41,TX-Worker-014,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1015-S12,42,TX-Worker-015,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1016-S12,43,TX-Worker-016,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1017-S12,44,TX-Worker-017,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1018-S12,45,TX-Worker-018,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1019-S12,46,TX-Worker-019,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1020-S12,47,TX-Worker-020,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1021-S12,48,TX-Worker-021,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1022-S12,49,TX-Worker-022,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1023-S12,50,TX-Worker-023,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1024-S12,51,TX-Worker-024,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1025-S12,52,TX-Worker-025,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1026-S12,53,TX-Worker-026,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.377
+12,TX1001-S12,28,TX-Worker-001,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1002-S12,29,TX-Worker-002,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1003-S12,30,TX-Worker-003,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1004-S12,31,TX-Worker-004,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1005-S12,32,TX-Worker-005,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1006-S12,33,TX-Worker-006,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1007-S12,34,TX-Worker-007,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1008-S12,35,TX-Worker-008,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1009-S12,36,TX-Worker-009,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1010-S12,37,TX-Worker-010,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1011-S12,38,TX-Worker-011,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1012-S12,39,TX-Worker-012,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1013-S12,40,TX-Worker-013,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1014-S12,41,TX-Worker-014,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1015-S12,42,TX-Worker-015,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1016-S12,43,TX-Worker-016,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1017-S12,44,TX-Worker-017,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1018-S12,45,TX-Worker-018,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1019-S12,46,TX-Worker-019,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1020-S12,47,TX-Worker-020,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1021-S12,48,TX-Worker-021,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1022-S12,49,TX-Worker-022,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1023-S12,50,TX-Worker-023,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1024-S12,51,TX-Worker-024,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1025-S12,52,TX-Worker-025,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1026-S12,53,TX-Worker-026,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.382
+12,TX1001-S12,28,TX-Worker-001,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1002-S12,29,TX-Worker-002,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1003-S12,30,TX-Worker-003,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1004-S12,31,TX-Worker-004,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1005-S12,32,TX-Worker-005,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1006-S12,33,TX-Worker-006,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1007-S12,34,TX-Worker-007,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1008-S12,35,TX-Worker-008,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1009-S12,36,TX-Worker-009,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1010-S12,37,TX-Worker-010,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1011-S12,38,TX-Worker-011,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1012-S12,39,TX-Worker-012,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1013-S12,40,TX-Worker-013,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1014-S12,41,TX-Worker-014,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1015-S12,42,TX-Worker-015,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1016-S12,43,TX-Worker-016,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1017-S12,44,TX-Worker-017,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1018-S12,45,TX-Worker-018,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1019-S12,46,TX-Worker-019,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1020-S12,47,TX-Worker-020,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1021-S12,48,TX-Worker-021,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1022-S12,49,TX-Worker-022,8,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1023-S12,50,TX-Worker-023,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1024-S12,51,TX-Worker-024,10,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1025-S12,52,TX-Worker-025,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1026-S12,53,TX-Worker-026,5,WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.387
+12,TX1001-S12,28,TX-Worker-001,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1002-S12,29,TX-Worker-002,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1003-S12,30,TX-Worker-003,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1004-S12,31,TX-Worker-004,8,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1005-S12,32,TX-Worker-005,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1006-S12,33,TX-Worker-006,10,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1007-S12,34,TX-Worker-007,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1008-S12,35,TX-Worker-008,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1009-S12,36,TX-Worker-009,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1010-S12,37,TX-Worker-010,8,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1011-S12,38,TX-Worker-011,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1012-S12,39,TX-Worker-012,10,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1013-S12,40,TX-Worker-013,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1014-S12,41,TX-Worker-014,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1015-S12,42,TX-Worker-015,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1016-S12,43,TX-Worker-016,8,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1017-S12,44,TX-Worker-017,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1018-S12,45,TX-Worker-018,10,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1019-S12,46,TX-Worker-019,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1020-S12,47,TX-Worker-020,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1021-S12,48,TX-Worker-021,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1022-S12,49,TX-Worker-022,8,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1023-S12,50,TX-Worker-023,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1024-S12,51,TX-Worker-024,10,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1025-S12,52,TX-Worker-025,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1026-S12,53,TX-Worker-026,5,WAITING,TatkalVirtualClock,Pre-10AM Gate (WAITING),2026-11-26 15:15:27.389
+12,TX1001-S12,28,TX-Worker-001,5,TIMED_WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1002-S12,29,TX-Worker-002,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1003-S12,30,TX-Worker-003,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1004-S12,31,TX-Worker-004,8,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1005-S12,32,TX-Worker-005,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1006-S12,33,TX-Worker-006,10,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1007-S12,34,TX-Worker-007,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1008-S12,35,TX-Worker-008,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1009-S12,36,TX-Worker-009,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1010-S12,37,TX-Worker-010,8,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1011-S12,38,TX-Worker-011,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1012-S12,39,TX-Worker-012,10,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1013-S12,40,TX-Worker-013,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1014-S12,41,TX-Worker-014,5,TIMED_WAITING,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1015-S12,42,TX-Worker-015,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1016-S12,43,TX-Worker-016,8,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1017-S12,44,TX-Worker-017,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1018-S12,45,TX-Worker-018,10,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1019-S12,46,TX-Worker-019,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1020-S12,47,TX-Worker-020,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1021-S12,48,TX-Worker-021,5,RUNNABLE,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1022-S12,49,TX-Worker-022,8,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1023-S12,50,TX-Worker-023,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1024-S12,51,TX-Worker-024,10,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1025-S12,52,TX-Worker-025,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1026-S12,53,TX-Worker-026,5,TERMINATED,TatkalVirtualClock,Daemon Periodic Sample,2026-11-26 15:15:27.394
+12,TX1001-S12,28,TX-Worker-001,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1002-S12,29,TX-Worker-002,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1003-S12,30,TX-Worker-003,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1004-S12,31,TX-Worker-004,8,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1005-S12,32,TX-Worker-005,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1006-S12,33,TX-Worker-006,10,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1007-S12,34,TX-Worker-007,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1008-S12,35,TX-Worker-008,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1009-S12,36,TX-Worker-009,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1010-S12,37,TX-Worker-010,8,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1011-S12,38,TX-Worker-011,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1012-S12,39,TX-Worker-012,10,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1013-S12,40,TX-Worker-013,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1014-S12,41,TX-Worker-014,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1015-S12,42,TX-Worker-015,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1016-S12,43,TX-Worker-016,8,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1017-S12,44,TX-Worker-017,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1018-S12,45,TX-Worker-018,10,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1019-S12,46,TX-Worker-019,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1020-S12,47,TX-Worker-020,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1021-S12,48,TX-Worker-021,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1022-S12,49,TX-Worker-022,8,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1023-S12,50,TX-Worker-023,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1024-S12,51,TX-Worker-024,10,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1025-S12,52,TX-Worker-025,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395
+12,TX1026-S12,53,TX-Worker-026,5,TERMINATED,TatkalVirtualClock,Post-Join (TERMINATED),2026-11-26 15:15:27.395

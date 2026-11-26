@@ -1,0 +1,6 @@
+username,fullName,email,phone,age,gender,idProofType,idProofNumber,verified,priorityCategory,berthPreference,walletBalance
+ananya_r,Ananya Rao,ananya@mail.in,9822011223,29,F,AADHAAR,AAD-880011,true,NORMAL,LB,14000
+col_vikram,Col Vikram Nair,vikram@mail.in,9822044556,52,M,PAN,PAN-DEF992,true,DEFENCE,SL,22000
+dr_kavita,Dr Kavita Iyer,kavita@mail.in,9822077889,45,F,PASSPORT,PAS-MED101,true,MEDICAL,LB,18500
+bad_age,Invalid AgeUser,bad@mail.in,12345,250,M,AADHAAR,AAD-999,true,NORMAL,ANY,1000
+incomplete_row,OnlyTwoCols

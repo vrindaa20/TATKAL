@@ -1,0 +1,24 @@
+2026-11-26 01:06:54.904 [FailureLab:FL-01] 150 Passengers Competing for 1 Last Available Seat | Errors=[149 competing requests rejected with SeatUnavailableException after 1 seat taken.] | Consistent=true
+2026-11-26 01:06:54.934 [FailureLab:FL-02] Payment Failure After Provisional Seat Hold | Errors=[Gateway declined transaction GW-UPI-1795635414926-3 for booking TX1153] | Consistent=true
+2026-11-26 01:06:54.957 [FailureLab:FL-03] Booking Payment Timeout | Errors=[Payment gateway timeout for booking TX1154 after 3000 ms] | Consistent=true
+2026-11-26 01:06:54.981 [FailureLab:FL-04] Duplicate Passenger Booking Attempts | Errors=[Duplicate booking attempt blocked for passengerId=1 on scheduleId=1 (session=13)] | Consistent=true
+2026-11-26 01:06:55.019 [FailureLab:FL-05] Worker Thread Interruption While Waiting for 10 AM Gate | Errors=[Worker thread interrupted before completion.] | Consistent=true
+2026-11-26 01:06:55.045 [FailureLab:FL-06] Simulated SQLite Database Connection Failure | Errors=[Database connection failed: Simulated SQLite database connection failure (Failure Lab).] | Consistent=true
+2026-11-26 01:06:55.111 [FailureLab:FL-07] Cancellation During Concurrent Booking | Errors=[Contention between cancellation and concurrent booking resolved with zero inventory drift.] | Consistent=true
+2026-11-26 01:06:55.179 [FailureLab:FL-08] 121 Threads Accessing Shared SeatInventory Simultaneously | Errors=[Observed 27 optimistic read collisions safely prevented.] | Consistent=true
+2026-11-26 15:19:33.933 [FailureLab:FL-01] 150 Passengers Competing for 1 Last Available Seat | Errors=[149 competing requests rejected with SeatUnavailableException after 1 seat taken.] | Consistent=true
+2026-11-26 15:19:33.962 [FailureLab:FL-02] Payment Failure After Provisional Seat Hold | Errors=[Gateway declined transaction GW-UPI-1795686573954-6 for booking TX1161] | Consistent=true
+2026-11-26 15:19:33.986 [FailureLab:FL-03] Booking Payment Timeout | Errors=[Payment gateway timeout for booking TX1162 after 3000 ms] | Consistent=true
+2026-11-26 15:19:34.003 [FailureLab:FL-04] Duplicate Passenger Booking Attempts | Errors=[Duplicate booking attempt blocked for passengerId=1 on scheduleId=1 (session=13)] | Consistent=true
+2026-11-26 15:19:34.034 [FailureLab:FL-05] Worker Thread Interruption While Waiting for 10 AM Gate | Errors=[Worker thread interrupted before completion.] | Consistent=true
+2026-11-26 15:19:34.056 [FailureLab:FL-06] Simulated SQLite Database Connection Failure | Errors=[Database connection failed: Simulated SQLite database connection failure (Failure Lab).] | Consistent=true
+2026-11-26 15:19:34.089 [FailureLab:FL-07] Cancellation During Concurrent Booking | Errors=[Contention between cancellation and concurrent booking resolved with zero inventory drift.] | Consistent=true
+2026-11-26 15:19:34.152 [FailureLab:FL-08] 121 Threads Accessing Shared SeatInventory Simultaneously | Errors=[Observed 32 optimistic read collisions safely prevented.] | Consistent=true
+2026-11-26 15:42:55.978 [FailureLab:FL-01] 150 Passengers Competing for 1 Last Available Seat | Errors=[149 competing requests rejected with SeatUnavailableException after 1 seat taken.] | Consistent=true
+2026-11-26 15:42:56.021 [FailureLab:FL-02] Payment Failure After Provisional Seat Hold | Errors=[Gateway declined transaction GW-UPI-1795687976013-6 for booking TX1161] | Consistent=true
+2026-11-26 15:42:56.061 [FailureLab:FL-03] Booking Payment Timeout | Errors=[Payment gateway timeout for booking TX1162 after 3000 ms] | Consistent=true
+2026-11-26 15:42:56.092 [FailureLab:FL-04] Duplicate Passenger Booking Attempts | Errors=[Duplicate booking attempt blocked for passengerId=1 on scheduleId=1 (session=13)] | Consistent=true
+2026-11-26 15:42:56.146 [FailureLab:FL-05] Worker Thread Interruption While Waiting for 10 AM Gate | Errors=[Worker thread interrupted before completion.] | Consistent=true
+2026-11-26 15:42:56.192 [FailureLab:FL-06] Simulated SQLite Database Connection Failure | Errors=[Database connection failed: Simulated SQLite database connection failure (Failure Lab).] | Consistent=true
+2026-11-26 15:42:56.232 [FailureLab:FL-07] Cancellation During Concurrent Booking | Errors=[Contention between cancellation and concurrent booking resolved with zero inventory drift.] | Consistent=true
+2026-11-26 15:42:56.323 [FailureLab:FL-08] 121 Threads Accessing Shared SeatInventory Simultaneously | Errors=[Observed 10 optimistic read collisions safely prevented.] | Consistent=true

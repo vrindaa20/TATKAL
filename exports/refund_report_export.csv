@@ -1,0 +1,2 @@
+refund_id,cancellation_id,payment_id,original_amount,deduction_amount,refund_amount,refund_status,processed_at
+1,1,49,2778.64,60.00,2718.64,PROCESSED,2026-11-26 15:15:27.399

@@ -1,0 +1,4 @@
+session_id,universe_name,total_requests,confirmed,rac,wl,failed,duplicates,total_ms,avg_ms,max_ms,success_pct,utilization_pct,consistent
+10,UNIVERSE A (Sequential FIFO),26,12,4,8,2,1,115,4.23,46,92.31,100.00,true
+11,UNIVERSE B (PriorityQueue: MEDICAL_SENIOR_FIRST),26,12,4,8,2,0,55,2.12,3,92.31,100.00,true
+12,UNIVERSE C (Concurrent Threads),26,12,4,8,2,1,6,3.50,5,92.31,100.00,true
